@@ -12,10 +12,10 @@
 
 # 학원 (한국)
 
-## CodeSquad
+### CodeSquad
 - https://codesquad.kr
 
-## FastCampus
+### FastCampus
 - https://www.fastcampus.co.kr
 
 <br>
